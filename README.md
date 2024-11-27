@@ -1,2 +1,2 @@
 # project1
-teste de alinhamento
+teste de script de alinhamento
